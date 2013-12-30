@@ -1,13 +1,14 @@
-R
+R Resources
 =====
 
 Software
 --------
 
 - [The R Project](http://www.r-project.org/)
+     >R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. 
 
 - [Rstudio](http://www.rstudio.com/)
-    >A free and open source integrated development environment (IDE) for R.
+     >A free and open source integrated development environment (IDE) for R.
 
 Tutorials
 --------
@@ -25,8 +26,10 @@ Tutorials
      >Currently lists 97 free R tutorials (and growing).
 
 - [stackoverflow](http://stackoverflow.com/questions/tagged/r)
+     >Stack Overflow is a question and answer site for professional and enthusiast programmers.
 
 - [StackExchange](http://stats.stackexchange.com/questions/tagged/r)
+     >Cross Validated is a question and answer site for statisticians, data analysts, data miners and data visualization experts.
 
 
 Packages
@@ -47,6 +50,8 @@ Replication
 - [knitr](http://yihui.name/knitr/)
      >A transparent engine for dynamic report generation with R, solve some long-standing problems in Sweave, and combine features in other add-on packages into one package
      
+  - [Demo](http://yihui.name/knitr/demos)
+
 - [Sweave](http://www.stat.uni-muenchen.de/~leisch/Sweave/)
      >A tool that allows to embed the R code for complete data analyses in latex documents.
      - [Getting Started with Sweave: R, LaTeX, Eclipse, StatET, and TeXlipse](http://www.r-bloggers.com/getting-started-with-sweave-r-latex-eclipse-statet-texlipse/)

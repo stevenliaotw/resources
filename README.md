@@ -1,16 +1,18 @@
-This `/resource` folder aggregates datasets, websites, tools, tutorials, etc. for the following:
+This `/resource` folder aggregates resources (datasets, websites, tools, tutorials, etc.) for the following:
 
-- Migration
+- [Migration](https://github.com/stevenliaotw/resources/blob/master/migration.md)
 
-- Democracy
+- [Democracy](https://github.com/stevenliaotw/resources/blob/master/democracy.md)
 
-- Inequality
+- [Inequality](https://github.com/stevenliaotw/resources/blob/master/inequality.md)
 
-- Quantitative methods
+- [Quantitative methods](https://github.com/stevenliaotw/resources/blob/master/methods.md)
 
-- R
+- [R](https://github.com/stevenliaotw/resources/blob/master/R.md)
 
-- LaTeX
+- [LaTeX](https://github.com/stevenliaotw/resources/blob/master/LaTeX.md)
+
+- [General Databases](https://github.com/stevenliaotw/resources/blob/master/general.md)
 
 
 
