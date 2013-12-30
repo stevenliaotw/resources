@@ -80,23 +80,29 @@ JAGS
 
 Coding Style
 ------------
+
 - [Google's R Style Guide](http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml)
 
 
 Visualization
 ------------
+
 - [Using Graphs Instead of Tables](http://tables2graphs.com/doku.php)
+
      >Accompanies the article "Using Graphs Instead of Tables in Political Science."
 
 
 Data Mining
 ----------
+
 - [rdatamining](http://www.rdatamining.com/resources/onlinedocs)
+
      >comprehensive tutorials for data mining and parallel computing
 
 
 Aggregators
 ------------
+
 - [John Fox's R resources](http://socserv.mcmaster.ca/jfox/Books/Companion/resources.html)
 
 - [R-bloggers](http://www.r-bloggers.com/)
