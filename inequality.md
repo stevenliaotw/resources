@@ -1,4 +1,4 @@
-Inequality
+Inequality Data
 ==============
 
 - [University of Texas: Inequality Project](http://utip.gov.utexas.edu/data.html)

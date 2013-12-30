@@ -1,4 +1,4 @@
-Methods
+Methods Resources
 ==========
 
 - [Andrew Gelman](http://andrewgelman.com/)
@@ -17,5 +17,5 @@ Methods
      >Software
 
 - [Simon Jackman](http://pscl.stanford.edu/mcmc/index.php)
-     Bayes
+     >Bayesian resources
 
