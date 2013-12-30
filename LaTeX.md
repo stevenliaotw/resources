@@ -1,4 +1,4 @@
-LaTeX
+LaTeX Resources
 ========
 
 Software
