@@ -1,4 +1,4 @@
-This `/resource` folder aggregates resources (datasets, websites, tools, tutorials, etc.) for the following:
+This `resource/` folder aggregates resources (datasets, websites, tools, tutorials, etc.) for the following:
 
 - [Migration](https://github.com/stevenliaotw/resources/blob/master/migration.md)
 
